@@ -23,6 +23,12 @@ yarn-error.log*
 
 # Dependency directories
 node_modules/
+.sfdx/
+*.log
+*.json
+.env
+coverage/
+package-lock.json
 
 # Eslint cache
 .eslintcache
